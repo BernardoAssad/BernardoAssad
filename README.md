@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**BernardoAssad/BernardoAssad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying information systems at FIAP
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about anything you want
+- 📫 How to reach me on email: bernardoassad04@gmail.com
+- ⚡ Fun fact: I'm passionate about games and one day I want to work with it
 
-Here are some ideas to get you started:
+Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando sistemas de informação na FIAP
+- 🌱 Atualmente estou aprendendo JavaScript
+- 💬 Pergunte-me sobre qualquer coisa que você deseja
+- 📫 Você pode me contatar pelo email: bernardoassad04@gmail.com
+- ⚡ Fato sobre mim: Sou apaixonado por jogos e um dia quero trabalhar com isso
