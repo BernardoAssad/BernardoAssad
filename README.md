@@ -33,8 +33,6 @@ Hi there 👋
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
-- Tailwind
 
 <h3>👨‍💻Back-End</h3>
 
@@ -42,10 +40,23 @@ Hi there 👋
 - Node.JS
 - Python
 - PHP
+- Kotlin
+- C#
+
+<h3>🧰Ferramentas</h3>
+
+- Linux
+- Docker
+- Bootstrap
+- Tailwind
+- Flutter
+- Composer
+- JUnit
 
 <h3>🎲Dados | Data</h3>
 
 - SQL
-- Postgree
+- Postgre
+- MySQL
 - Excel
 - Power BI
