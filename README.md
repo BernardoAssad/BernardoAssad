@@ -26,11 +26,21 @@ ___
 
 &nbsp;
 
-<div>
+## 📊 Github Stats
+
+<div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoAssad&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAssad&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAssad&layout=compact&theme=tokyonight"/>
 </div>
-     
+
+<div align="center">
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAssad&layout=compact&theme=tokyonight"/>
+</div>
+      
+&nbsp;
+
+___
+
 &nbsp;
 
 <h2 align=center>Estudos | Studies</h2>
