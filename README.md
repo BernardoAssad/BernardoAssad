@@ -69,7 +69,7 @@ ___
 
 &nbsp;
 
-### <code>🧰 Ferramentas</code>
+### <code>🧰 Ferramentas | Tools</code>
 
 <div>
   <img align="center" alt="linux-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
