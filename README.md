@@ -45,7 +45,7 @@ ___
 
 <h2 align=center>Estudos | Studies</h2>
 
-### <code>🖼️Front-End</code>
+### <code>🖼️ Front-End</code>
 
 <div>
   <img align="center" alt="html-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -55,7 +55,7 @@ ___
 
 &nbsp;
 
-### <code>👨‍💻Back-End</code>
+### <code>👨‍💻 Back-End</code>
 
 <div>
   <img align="center" alt="java-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />        
@@ -69,7 +69,7 @@ ___
 
 &nbsp;
 
-### <code>🧰Ferramentas</code>
+### <code>🧰 Ferramentas</code>
 
 <div>
   <img align="center" alt="linux-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
@@ -86,7 +86,7 @@ ___
 
 &nbsp;
 
-### <code>🎲Dados | Data</code>
+### <code>🎲 Dados | Data</code>
 
 <div>
   <img align="center" alt="mysql-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -98,7 +98,7 @@ ___
 &nbsp;
 &nbsp;
 
-<h2 align=center>Fale comigo pelas redes</h2>
+<h2 align=center>🌎 Social</h2>
 
 &nbsp;
 
