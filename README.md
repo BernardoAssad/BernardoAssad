@@ -2,7 +2,7 @@
 <h1 align="center"> Bernardo Assad</h1>
 <h3 align="center"> FullStack Developer</h1>
 
-### Olá 👋
+### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 - 📖 Atualmente estou cursando Sistemas de Informação - FIAP
 - 💻 Atualmente estou aprendendo JavaScript | PHP
@@ -12,7 +12,7 @@
 - ⚡ Sobre mim: Sou apaixonado por tecnologia desde sempre, por conta da curiosidade desde muito novo direcionei meus esforços e estudos para essa área. Hoje curso faculdade na área para ter uma educação formal e estou atuando como Estagiário em Desenvolvimento na Companhia de Estágios.
 
 
-Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 - 📖 I’m currently studying Information Systems - FIAP
 - 💻 I’m currently learning JavaScript
