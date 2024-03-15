@@ -1,25 +1,6 @@
 <img src="https://solonetwork.com.br/images/default-source/default-album/gerenciamento-de-ativos-de-software.png?sfvrsn=2adf3801_0" width=100% />
-<h1 align="center"> Bernardo Assad</h1>
-<h3 align="center"> FullStack Developer</h1>
 
-### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-
-- 📖 Atualmente estou cursando Sistemas de Informação - FIAP
-- 💻 Atualmente estou aprendendo JavaScript | PHP
-- 💼 Estagiando na Companhia de Estágios
-- 💬 Pergunte-me sobre qualquer coisa que você deseja
-- 📫 Você pode me contatar pelo email: bernardoassad04@gmail.com
-- ⚡ Sobre mim: Sou apaixonado por tecnologia desde sempre, por conta da curiosidade desde muito novo direcionei meus esforços e estudos para essa área. Hoje curso faculdade na área para ter uma educação formal e estou atuando como Estagiário em Desenvolvimento na Companhia de Estágios.
-
-
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-
-- 📖 I’m currently studying Information Systems - FIAP
-- 💻 I’m currently learning JavaScript
-- 💼 Working at Companhia de Estágios
-- 💬 Ask me about anything you want
-- 📫 How to reach me on email: bernardoassad04@gmail.com
-- ⚡ About me: I have always been in love with technology, because of my curiosity since I was very young, I directed my efforts and studies to this area. Today I'm going to college in the area to have a formal education and I'm present as an Intern in Development at Companhia de Estágios.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Bernardo+Assad!;Desenvolvedor+FullStack+|+Companhia+de+Estágios;5º+Semestre+Sistemas+De+Informações+|+FIAP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 ___
@@ -30,14 +11,18 @@ ___
 
 &nbsp;
 
-<div align="center">
+<p align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoAssad&show_icons=true&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAssad&layout=compact&theme=tokyonight"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAssad&layout=compact&theme=tokyonight"/>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bernardoassad&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
       
 &nbsp;
 
