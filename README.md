@@ -13,7 +13,9 @@ ___
 
 <p align="center">
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAssad&layout=compact&theme=tokyonight"/>
-   &nbsp;
+</p>
+
+<p align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoAssad&show_icons=true&theme=tokyonight"/>
 </p>
 
