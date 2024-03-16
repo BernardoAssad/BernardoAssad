@@ -1,4 +1,4 @@
-<img src="https://solonetwork.com.br/images/default-source/default-album/gerenciamento-de-ativos-de-software.png?sfvrsn=2adf3801_0" width=100% />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3bff93&textBg=false" width=100% />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Bernardo+Assad!;Desenvolvedor+FullStack+|+Companhia+de+Estágios;5º+Semestre+Sistemas+De+Informações+|+FIAP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -10,10 +10,6 @@ ___
 ## 📊 Github Stats
 
 &nbsp;
-
-<p align="center">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAssad&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoAssad&show_icons=true&theme=tokyonight"/>
@@ -94,4 +90,8 @@ ___
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-assad/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardoassad/)
+
+&nbsp;
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3bff93&textBg=false&section=footer" width=100% />
 
