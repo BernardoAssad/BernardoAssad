@@ -78,9 +78,9 @@ Atualmente no terceiro ano de Sistemas de Informações | FIAP, e atuando no car
 
 <h2 align="center">🌎 Social </h2>
 <div align="center">
-   <a href="https://www.linkedin.com/in/bernardo-assad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.instagram.com/bernardoassad/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="mailto:bernardoassad04@gmail.com?subject=Visualiza%C3%A7%C3%A3o%20de%20perfil%20no%20GitHub&body=Ol%C3%A1%2C%20tudo%20bem%3F%20Vi%20seu%20perfil%20no%20GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/bernardo-assad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://open.spotify.com/user/22ddaki2ehxglnql3egwce6pi?si=87a431f891d24bf6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
