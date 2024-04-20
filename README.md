@@ -7,89 +7,82 @@ ___
 
 &nbsp;
 
-## 📊 Github Stats
+<h2 align="center">😎 Sobre mim </h2>
+<div align='center'>
+   <p>"Eu gosto do impossível, pois lá a concorrência é menor" - Walt Disney</p>
+</div>
+
+Atualmente no terceiro ano de Sistemas de Informações | FIAP, e atuando no cargo de Estagiário Desenvolvedor Full Stack na <b>Companhia de Estágios</b>. Na área de programação estou trabalhando com PHP, JavaScript, Laravel e Zend, além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Kotlin e Python ultimamente. Também tenho interesse na área de Engenharia de Dados.
 
 &nbsp;
 
-<p align="center">
+<b> Além de programação, eu.. </b>
+
+- Amo jogar jogos online, de preferência competitivos.
+- Sou vascaíno apaixonado
+- Se eu pudesse ficar minha vida inteira no mar, eu ficaria
+- Gosto de ler teorias da conspiração, quanto mais maluca, melhor
+
+&nbsp;
+
+<h2 align="center">📚 Estudos</h2>
+
+<div align="center">
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"></a>
+   <a href="https://github.com/BernardoAssad" target="_blank"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></a>
+</div>
+
+&nbsp;
+
+<h2 align="center"> 📊 Github Stats </h2>
+<div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoAssad&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAssad&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bernardoassad&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-      
-&nbsp;
-
-___
-
-&nbsp;
-
-<h2 align=center>Estudos | Studies</h2>
-
-### <code>🖼️ Front-End</code>
-
-<div>
-  <img align="center" alt="html-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="css-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="js-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAssad&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=BernardoAssad&theme=tokyonight" alt="GitHub Streak" />
+   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=bernardoassad&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 &nbsp;
 
-### <code>👨‍💻 Back-End</code>
-
-<div>
-  <img align="center" alt="java-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />        
-  <img align="center" alt="node-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="python-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />  
-  <img align="center" alt="php-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="kotlin-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
-  <img align="center" alt="lua-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-  <img align="center" alt="dart-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />          
+<h2 align="center">🌎 Social </h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/bernardo-assad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.instagram.com/bernardoassad/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="mailto:bernardoassad04@gmail.com?subject=Visualiza%C3%A7%C3%A3o%20de%20perfil%20no%20GitHub&body=Ol%C3%A1%2C%20tudo%20bem%3F%20Vi%20seu%20perfil%20no%20GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://open.spotify.com/user/22ddaki2ehxglnql3egwce6pi?si=87a431f891d24bf6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
-
-&nbsp;
-
-### <code>🧰 Ferramentas | Tools</code>
-
-<div>
-  <img align="center" alt="linux-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="docker-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="bootstrap-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="tailwind-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="flutter-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="composer-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
-  <img align="center" alt="maven-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" />
-  <img align="center" alt="git-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />       
-  <img align="center" alt="kubernetes-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
-  <img align="center" alt="junit-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
-</div>
-
-&nbsp;
-
-### <code>🎲 Dados | Data</code>
-
-<div>
-  <img align="center" alt="mysql-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="postgre-icon" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="excel-icon" width="40" height="40" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
-  <img align="center" alt="powerbi-icon" width="40" height="40" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>          
-</div>
-
-&nbsp;
-&nbsp;
-
-<h2 align=center>🌎 Social </h2>
-
-&nbsp;
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-assad/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardoassad/)
 
 &nbsp;
 
