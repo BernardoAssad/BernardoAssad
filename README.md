@@ -12,7 +12,7 @@ ___
    <p>"Eu gosto do impossível, pois lá a concorrência é menor" - Walt Disney</p>
 </div>
 
-Atualmente no terceiro ano de Sistemas de Informações | FIAP, e atualmente estou atuando como Desenvolvedor na Parafernália Interativa. Na área de programação tenho trabalhos com PHP, JavaScript, Laravel e Zend, WordPress, Python, Kotlin, Flutter além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Kotlin e Python ultimamente. Também tenho interesse na área de Engenharia de Dados.
+Atualmente no terceiro ano de Sistemas de Informações na FIAP, e atuando como Desenvolvedor na Parafernália Interativa. Na área de programação tenho trabalhos com PHP, JavaScript, Laravel e Zend, WordPress, Python, Kotlin, Flutter além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Kotlin e Python ultimamente. Também tenho interesse na área de Engenharia de Dados.
 
 &nbsp;
 
