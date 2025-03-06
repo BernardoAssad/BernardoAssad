@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3bff93&textBg=false" width=100% />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B6E4F&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Bernardo+Assad!;Desenvolvedor+FullStack+|+Parafernália+Interativa;7º+Semestre+Sistemas+De+Informações+|+FIAP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B6E4F&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Bernardo+Assad!;Desenvolvedor+FullStack;7º+Semestre+Sistemas+De+Informações+|+FIAP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 ___
@@ -12,7 +12,7 @@ ___
    <p>"Eu gosto do impossível, pois lá a concorrência é menor" - Walt Disney</p>
 </div>
 
-Atualmente no terceiro ano de Sistemas de Informações na FIAP, e atuando como Desenvolvedor na Parafernália Interativa. Na área de programação tenho trabalhos com PHP, JavaScript, Laravel e Zend, WordPress, Python, Kotlin, Flutter além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Kotlin e Python ultimamente. Também tenho interesse na área de Engenharia de Dados.
+Atualmente no último ano de Sistemas de Informações na FIAP, e atuando como Desenvolvedor FullStack. Na área de programação tenho trabalhos com Flutter, JavaScript, Python, PHP, Laravel, Zend, WordPress e Kotlin além de outras ferramentas e metodologias. Meus estudos estão direcionados em Flutter, Python e Inteligência Artificial. Também tenho interesse na área de Engenharia de Dados.
 
 &nbsp;
 
