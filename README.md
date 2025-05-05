@@ -20,7 +20,6 @@ Atualmente no último ano de Sistemas de Informações na FIAP, e atuando como D
 
 - Amo jogar jogos online, de preferência competitivos.
 - Sou vascaíno apaixonado
-- Se eu pudesse ficar minha vida inteira no mar, eu ficaria
 - Gosto de ler teorias da conspiração, quanto mais maluca, melhor
 
 &nbsp;
